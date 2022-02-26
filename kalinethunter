@@ -215,7 +215,7 @@ resolvconf
 
 finalwork() {
 	
-	DESTINATION=$DESTINATION SETARCH=$SETARCH bash $HOME/kali_install_for_termux/finaltouchup.sh
+	DESTINATION=$DESTINATION SETARCH=$SETARCH bash $HOME/ka_install/finaltouchup.sh
 } 
 finalwork
 
