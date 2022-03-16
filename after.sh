@@ -8,9 +8,9 @@ apt-get clean
 
 #Setup the necessary files
 mkdir ~/.vnc
-wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/DesktopEnvironment/Apt/LXDE/xstartup -P ~/.vnc/
-wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/DesktopEnvironment/Apt/LXDE/vncserver-start -P /usr/local/bin/
-wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/DesktopEnvironment/Apt/LXDE/vncserver-stop -P /usr/local/bin/
+wget https://www.hestudio.xyz/kali_for_android/xstartup -P ~/.vnc/
+wget https://www.hestudio.xyz/kali_for_android/vncserver-start -P /usr/local/bin/
+wget https://www.hestudio.xyz/kali_for_android/vncserver-stop -P /usr/local/bin/
 
 chmod +x ~/.vnc/xstartup
 chmod +x /usr/local/bin/vncserver-start
