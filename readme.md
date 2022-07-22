@@ -7,3 +7,5 @@ https://blog.csdn.net/a18845594188/article/details/123163279?utm_source=app&app_
 https://www.kali.org/docs/nethunter/nethunter-rootless/
 
 
+# 赞助(赞助资金全部用来续费服务器)
+![赞助资金全部用来续费服务器](https://www.hestudio.xyz/res/afdian.jpg)
