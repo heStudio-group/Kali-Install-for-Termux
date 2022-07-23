@@ -8,4 +8,4 @@ https://www.kali.org/docs/nethunter/nethunter-rootless/
 
 
 # 赞助(赞助资金全部用来续费服务器)
-![赞助资金全部用来续费服务器](https://www.hestudio.xyz/res/afdian.jpg)
+[![赞助资金全部用来续费服务器](https://www.hestudio.xyz/res/afdian.jpg)](https://afdian.net/@hestudio)
